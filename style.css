@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+h1{
+    text-align:center;
+    font-family:"Noto Sans JP", sans-serif;
+    font-size:75px;
+    margin-top:100px;
+}
+h2{
+    text-align:center;
+    font-family:"Noto Sans JP", sans-serif;
+    font-size:40px;
+    margin-bottom: 200px;
+}
+.header {
+    margin-top:30px;
+    text-align:center;
+    font-family:"Noto Sans JP", sans-serif;
+    word-spacing:4em;
+    justify-content: space-around;
+    width:100%;
+    display:flex;
+}
+.title{
+    font-family:"Noto Sans JP", sans-serif;
+    font-size:30px;
+    margin-left:40px;
+    font-weight: bold;
+}
+.twitter-timeline{
+    margin-left:20px;
+}
+.explanation{
+    font-family:"Noto Sans JP", sans-serif;
+    font-size:20px;
+    margin-left:40px;
+}
+.Twitter-btn{
+    width:100px;
+    margin:0 0 0 300px;
+}
+.Discord-btn{
+    width:100px;
+    margin:0 0 0 400px;
+}

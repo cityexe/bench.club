@@ -121,3 +121,12 @@
     height: 100%;
     object-fit: cover;
   }
+.title-short{
+    font-family:"Noto Sans JP" , sans-serif;
+    font-size:25px;
+    margin-left:40px;
+    font-weight: bold;
+}
+.twitter-tweet{
+    margin:0 0 0 325px;
+}
